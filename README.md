@@ -1,4 +1,4 @@
-[[MasterHead](https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif)](https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif)
+[![MasterHead](https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif)](https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif)
 <h1 align="center">🙌🏿 Hey there! I'm Jennifer Peterson 🙌🏿</h1>
 <h3 align="center">An aspiring Software Developer passionate about elevating black women and girls in tech</h3>
 <img align="right" alt="Coding" width="400" src="https://compote.slate.com/images/30cde9b2-65c2-4a5c-9fe2-4d5ffe5b2c81.gif?width=2200">

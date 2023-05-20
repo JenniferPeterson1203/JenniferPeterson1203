@@ -9,7 +9,7 @@
 
 - 🎮 I’m currently working on **tic-tac-toe game**
 
-- 🧐I’m currently learning **Javascript, CSS, HTML**
+- 🧐I’m currently learning **Javascript (ES5 and ES6), Typescript, CSS, HTML, React, Node.js, Nest.js, GraphQL, Bootstrap**
 
 - 📫 How to reach me **Jenniferbushpeterson@gmail.com**
 

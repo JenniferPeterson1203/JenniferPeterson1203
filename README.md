@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenniferpeterson1203" alt="jenniferpeterson1203" /></a> </p>
 
-- 🎮 I’m currently working on **JourneeJots**
+- 🎮 I’m currently working on [**JourneeJots**](https://journeejots.netlify.app)
 
 - 🧐I’m currently learning **Javascript (ES5 and ES6), Typescript, CSS, HTML, React, Node.js, Nest.js, GraphQL, Bootstrap**
 

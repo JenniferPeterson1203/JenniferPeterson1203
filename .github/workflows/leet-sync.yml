@@ -1,0 +1,30 @@
+name: LeetSync
+on:
+  schedule:
+    - cron: '0 * * * *' # Sync every hour
+  workflow_dispatch:
+
+jobs:
+  leetsync:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install LeetSync
+      run: npm install -g leetsync
+
+    - name: Run LeetSync
+      run: leetsync -u Jennifer1203 -t ${{ secrets.LEETCODE_COOKIE }} --output LEETCODE.md
+
+    - name: Commit Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add LEETCODE.md
+        git commit -m "Update LeetCode Stats" || echo "No changes to commit"
+        git push

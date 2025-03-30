@@ -30,3 +30,9 @@
 
  🌐 Check out my [**Portfolio**](https://jennifer-peterson-portfolio-site.netlify.app/)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferpeterson1203&show_icons=true&locale=en&layout=compact" alt="jenniferpeterson1203" /></p>
+
+<h3 align="left">LeetCode Progress:</h3>
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Jennifer1203?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats">
+</p>
+

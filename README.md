@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" alt="MasterHead">
+  <img src="https://res.cloudinary.com/dluexpyt4/image/upload/c_crop,ar_16:9/v1746192915/LicenseToLearn_xqjqcq.png" alt="MasterHead">
 </div>
 
 
@@ -9,7 +9,7 @@
 
 ### An aspiring Software Developer and Cybersecurity Enthusiast on a journey to learn as much as I can in order to help elevate Black women and girls in tech.
 
-<img align="right" alt="Coding" width="400" src="https://compote.slate.com/images/30cde9b2-65c2-4a5c-9fe2-4d5ffe5b2c81.gif?width=2200">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jenniferpeterson1203&label=Profile%20views&color=0e75b6&style=flat" alt="jenniferpeterson1203" />

@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://res.cloudinary.com/dluexpyt4/image/upload/c_crop,ar_16:9/v1746192915/LicenseToLearn_xqjqcq.png" alt="MasterHead">
+  <img src="https://res.cloudinary.com/dluexpyt4/image/upload/c_crop,ar_16:9/v1746197637/cyberLicenseToLearn_a6gmdl.png" alt="MasterHead">
 </div>
 
 

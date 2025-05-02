@@ -29,18 +29,32 @@
 
 ---
 
-## 📚 What I'm Learning
+## 📚 What I'm Learning  
+🧐 I’m currently learning and working with:
 
-🧐 **I’m currently learning**:
-- **JavaScript (ES5 and ES6)**
-- **TypeScript**
-- **CSS**
-- **HTML**
-- **React**
-- **Node.js**
-- **Nest.js**
-- **GraphQL**
-- **Bootstrap**
+#### 👩🏿‍💻 Web Development  
+- JavaScript (ES5 and ES6)  
+- TypeScript  
+- HTML & CSS  
+- Tailwind CSS & Bootstrap  
+- React  
+- Node.js & Express  
+- Nest.js  
+- GraphQL  
+
+#### 🐍 Programming & Databases  
+- Python  
+- SQL (PostgreSQL, MySQL)  
+- Firebase (Authentication, Firestore, Hosting)  
+
+#### 🛡 Cybersecurity Fundamentals  
+- Networking (TCP/IP, OSI model, IP addressing, subnets)  
+- Network security tools (Wireshark, tcpdump)  
+- Linux & Windows command line  
+- Risk assessment & vulnerability analysis  
+- Incident response & documentation  
+- Secure protocols (SSH, HTTPS, IMAP, ICMP, ARP, etc.)
+
 
 ---
 

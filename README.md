@@ -1,15 +1,10 @@
-
 <div style="display: flex; justify-content: center;">
   <img src="https://res.cloudinary.com/dluexpyt4/image/upload/v1746486438/pink-hair-hacker_ssb1ux.png" alt="MasterHead">
 </div>
 
-
-
 # 👩🏿‍💻 Hey there! I'm Jennifer Peterson 👩🏿‍💻
 
 ### An aspiring Software Developer and Cybersecurity Enthusiast on a journey to learn as much as I can in order to help elevate Black women and girls in tech.
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jenniferpeterson1203&label=Profile%20views&color=0e75b6&style=flat" alt="jenniferpeterson1203" />
@@ -25,36 +20,51 @@
 
 🎮 **I’m currently working on [**JourneeJots**](https://journeejots.netlify.app)**
 
-🥕 **I’m also working on [**Roots and Recipes**](https://roots-and-recipes.netlify.app)** 
+🥕 **I’m also working on [**Roots and Recipes**](https://roots-and-recipes.netlify.app)**
 
 ---
 
-## 📚 What I'm Learning  
+## 📚 What I'm Learning
+
 🧐 I’m currently learning and working with:
 
-#### 👩🏿‍💻 Web Development  
-- JavaScript (ES5 and ES6)  
-- TypeScript  
-- HTML & CSS  
-- Tailwind CSS & Bootstrap  
-- React  
-- Node.js & Express  
-- Nest.js  
-- GraphQL  
+#### 👩🏿‍💻 Web Development
 
-#### 🐍 Programming & Databases  
-- Python  
-- SQL (PostgreSQL, MySQL)  
-- Firebase (Authentication, Firestore, Hosting)  
+- JavaScript (ES5 and ES6)
+- TypeScript
+- HTML & CSS
+- Tailwind CSS & Bootstrap
+- React
+- Node.js & Express
+- Nest.js
+- GraphQL
 
-#### 🛡 Cybersecurity Fundamentals  
-- Networking (TCP/IP, OSI model, IP addressing, subnets)  
-- Network security tools (Wireshark, tcpdump)  
-- Linux & Windows command line  
-- Risk assessment & vulnerability analysis  
-- Incident response & documentation  
+#### 🐍 Programming & Databases
+
+- Python
+- SQL (PostgreSQL, MySQL)
+- Firebase (Authentication, Firestore, Hosting)
+
+#### 🛡 Cybersecurity Fundamentals
+
+- Networking (TCP/IP, OSI model, IP addressing, subnets)
+- Network security tools (Wireshark, tcpdump)
+- Linux & Windows command line
+- Risk assessment & vulnerability analysis
+- Incident response & documentation
 - Secure protocols (SSH, HTTPS, IMAP, ICMP, ARP, etc.)
 
+---
+
+## 👩🏿‍💻 Work Experience
+
+### United Nations International Computing Centre (UNICC) | Cybersecurity Intern | Remote | Winter 2026
+
+- Developed and tested a Python automation to support a cybersecurity tabletop exercise, streamlining scenario inputs and outputs, improving execution efficiency, and ensuring secure handling of exercise data in support of operational security objectives.
+
+### SPEAKHIRE | Full Stack Software Engineer Intern | Remote | Spring 2026
+
+- Built a real-time survey modal triggered in the final 5 minutes of live Zoom sessions to capture feedback across multiple user roles. Developed the full-stack workflow using React, TypeScript, Node.js/Nest.js, and PostgreSQL, including API design and structured data storage for scalable analysis.
 
 ---
 
@@ -65,6 +75,9 @@ I am also pursuing cybersecurity education and have earned the following certifi
 - [**Play It Safe: Manage Security Risks**](https://coursera.org/share/2c44b016ec31132bb8b4b9d37d19bfd8)
 - [**Foundations of Cybersecurity**](https://coursera.org/share/07cb6e0e9444ea2b07d6673b50ca53f7)
 - [**Pre Security**](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C416DNBTDA.pdf)
+- [**Cybersecurity 101**](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-M5MHM9RMUV.pdf)
+- [**Technical Interview Prep**](https://drive.google.com/file/d/1h9FdS1dqU18lmkUdJ625AwVNb7YdVBmf/view)
+- [**Intro to Programming**](https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%2213iRIy3R1werYCbgSar_VVRjVobTjf_S3%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22101510242787266701102%22%2C%22resourceKeys%22%3A%7B%7D%7D)
 
 ---
 

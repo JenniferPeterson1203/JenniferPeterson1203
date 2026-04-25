@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dluexpyt4/image/upload/v1746486438/pink-hair-hacker_ssb1ux.png" alt="MasterHead">
 </div>
 
-# 👩🏿‍💻 Hey there! I'm Jennifer Peterson 👩🏿‍💻
+# Hey there! I'm Jennifer Peterson
 
 ### An aspiring Software Developer and Cybersecurity Enthusiast on a journey to learn as much as I can in order to help elevate Black women and girls in tech.
 
@@ -11,11 +11,14 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenniferpeterson1203" alt="jenniferpeterson1203" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI3MzhmdmpwdTVybTkzdDN3d3hmYXl2NzNuMHl3dDA4dG1uamJyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zp1a2ZOXJLCfSdtrPK/giphy.gif" alt="jenniferpeterson1203" /></a>
 </p>
 
 ---
 
+## 🔥 Now
+- This month I’m building a React portfolio site and learning TypeScript
 ## 🚀 Current Projects
 
 🎮 **I’m currently working on [**JourneeJots**](https://journeejots.netlify.app)**

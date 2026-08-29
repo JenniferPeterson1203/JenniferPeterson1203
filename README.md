@@ -21,7 +21,9 @@
 - This month I’m building a React portfolio site and learning TypeScript
 ## 🚀 Current Projects
 
-🎮 **I’m currently working on [**JourneeJots**](https://journeejots.netlify.app)**
+🛡️ Apex HealthTech ITGC Audit & GRC Assessment: Enterprise security control testing, network protocol baseline, and SOC 2/HIPAA risk analysis.
+
+🎮 **I’m currently working on [**My Pokédex**](https://react-pokedex-app-sooty.vercel.app/)**
 
 🥕 **I’m also working on [**Roots and Recipes**](https://roots-and-recipes.netlify.app)**
 
@@ -130,13 +132,6 @@ Check out my [**Portfolio**](https://jennifer-peterson-portfolio-site.netlify.ap
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferpeterson1203&show_icons=true&locale=en&layout=compact" alt="jenniferpeterson1203" />
-</p>
-
----
 
 ## 💻 LeetCode Progress
 

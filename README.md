@@ -4,7 +4,7 @@
 
 # Hey there! I'm Jennifer Peterson
 
-### An aspiring Software Developer and Cybersecurity Enthusiast on a journey to learn as much as I can in order to help elevate Black women and girls in tech.
+### Software Developer & Cybersecurity Professional | Full-Stack & GRC / Security Engineering | Python, React, PostgreSQL, AWS & Compliance Frameworks.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jenniferpeterson1203&label=Profile%20views&color=0e75b6&style=flat" alt="jenniferpeterson1203" />

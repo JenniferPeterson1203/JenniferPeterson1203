@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dluexpyt4/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1791230706/Jennifer_Peterson_bypjmt.jpg" alt="MasterHead" width="280">
 </div> -->
 
-# Hey there, I'm Jennifer Peterson 👋
+# Hey there, I'm Jennifer Peterson 👋🏿
 
 ### Software Developer & Cybersecurity Professional | Full-Stack & GRC / Security Engineering
 

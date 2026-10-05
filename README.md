@@ -6,7 +6,7 @@
 
 ### Software Developer & Cybersecurity Professional | Full-Stack & GRC / Security Engineering
 
-I build secure, scalable web applications and explore enterprise risk assessment and security frameworks. 
+I build secure, scalable web applications and explore enterprise risk assessment and security frameworks as I hone my focus in tech. 
 
 🌐 [Portfolio](https://jennifer-peterson-portfolio-site.netlify.app/) | 💼 [LinkedIn](https://linkedin.com/in/jennifer--peterson/) | 📫 [Email](mailto:Jenniferbushpeterson@gmail.com)
 
@@ -14,7 +14,7 @@ I build secure, scalable web applications and explore enterprise risk assessment
 
 ## 🔥 What I'm Doing Now
 - **Building:** React portfolio site & learning Python, C++, and Swift
-- **Current Focus:** Full-stack development, cloud security, and GRC compliance
+- **Current Focus:** Full-stack development, cloud security, and exploring specialized tech niches
 
 ---
 

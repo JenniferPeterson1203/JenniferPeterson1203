@@ -8,8 +8,11 @@
 
 I build secure, scalable web applications and explore enterprise risk assessment and security frameworks as I hone my focus in tech. 
 
-🌐 [Portfolio](https://jennifer-peterson-portfolio-site.netlify.app/) | 💼 [LinkedIn](https://linkedin.com/in/jennifer--peterson/) | 📫 [Email](mailto:Jenniferbushpeterson@gmail.com)
+### 🌐 Connect With Me
 
+- 💻 **Portfolio:** <a href="https://jennifer-peterson-dev.vercel.app" target="_blank">Visit my portfolio website</a>
+- 💼 **LinkedIn:** <a href="https://linkedin.com/in/jennifer--peterson/" target="_blank">Connect with me on LinkedIn</a>
+- 📫 **Email:** <a href="mailto:Jenniferbushpeterson@gmail.com">Send me an email</a>
 ---
 
 ## 🔥 What I'm Doing Now
